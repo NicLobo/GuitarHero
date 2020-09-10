@@ -1,2 +1,2 @@
 # GuitarHero
-Guitar Hero game made using Java
+Guitar Hero game made using OOP implementing a Java GUI
